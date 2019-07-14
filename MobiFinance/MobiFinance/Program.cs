@@ -10,7 +10,6 @@ namespace MobiFinance
         [STAThread]
         static void Main()
         {
-            Console.WriteLine("nesto");
         }
     }
 }
